@@ -5,7 +5,7 @@ import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
 
 /**
- * Created by k-higa on 2017/07/04.
+ * Created by k-higa on 2017/07/04. dd
  */
 @Controller
 public class DemoController {
